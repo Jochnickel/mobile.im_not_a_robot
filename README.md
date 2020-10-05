@@ -14,4 +14,5 @@ You get yourself together and have to solve your first captchas.
 
 
 Plot Twist:
-In the end you were the verifying machine for Captchas. The world is full of humans, convincing other human beings that they are no robots.
+
+In the end you were the Verifying Machine for Captchas. The world is full of humans, convincing other human beings that they are no robots.
