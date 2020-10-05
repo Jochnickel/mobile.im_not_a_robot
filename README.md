@@ -4,9 +4,12 @@ You will have to create an online identity so that _whoever_ knows you.
 Trailer: https://www.youtube.com/watch?v=BVFYFr4Vy8I
 
 Level 0: You are not a human
+
 You are sitting on a computer, you fall asleep on a Captcha and it thinks, you are not a human. There is a bright flash and you are now inside a computer. (You walk the circuit boards).
 
+
 Level 1: Orientation
+
 You get yourself together and have to solve your first captchas.
 
 
